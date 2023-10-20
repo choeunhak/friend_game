@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.34aa5a23.css",
-    "main.js": "./static/js/main.3833b61d.js",
-    "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.1cf4078cde429802200d.png",
-    "static/media/AVOCADO.png": "./static/media/AVOCADO.feb5c5c4a43ff1fb2548.png",
-    "static/media/MELON.png": "./static/media/MELON.49cbe7113f30dafc4625.png",
-    "static/media/WATERMELON.png": "./static/media/WATERMELON.732a067ccfa663d2f426.png",
-    "static/media/STRAWBERRY.png": "./static/media/STRAWBERRY.9cfeb6dd00c515996ceb.png",
-    "static/media/KOREANMELON.png": "./static/media/KOREANMELON.520b071b8ca168f70af2.png",
+    "main.css": "./static/css/main.43099039.css",
+    "main.js": "./static/js/main.65f6384b.js",
+    "static/media/PEACH.png": "./static/media/PEACH.d154222ee538ddbed32a.png",
+    "static/media/AVOCADO.png": "./static/media/AVOCADO.91e2d4f4f0cb9d93fa61.png",
+    "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.9210427ba545e72b9eef.png",
+    "static/media/WATERMELON.png": "./static/media/WATERMELON.e53e92731f42eea92fd1.png",
+    "static/media/STRAWBERRY.png": "./static/media/STRAWBERRY.0c521bf90bbcf93ff969.png",
+    "static/media/TOMATO.png": "./static/media/TOMATO.13d2c2040330fbe88067.png",
+    "static/media/COCONUT.png": "./static/media/COCONUT.fab71ff41e158dac1644.png",
+    "static/media/MELON.png": "./static/media/MELON.9bf6866f50199da53419.png",
+    "static/media/BLUEBERRY.png": "./static/media/BLUEBERRY.993f784336c5f9b8bcca.png",
+    "static/media/APPLE.png": "./static/media/APPLE.7a3652f8d6736bbcabed.png",
+    "static/media/TANGERINE.png": "./static/media/TANGERINE.f6812d91ec907c5671f9.png",
+    "static/media/KOREANMELON.png": "./static/media/KOREANMELON.0c06331848499fe77118.png",
     "static/media/pop.mp3": "./static/media/pop.aad1876107786cd34875.mp3",
     "static/media/pop2.mp3": "./static/media/pop2.be611a1bcb32ab485a96.mp3",
     "index.html": "./index.html",
-    "main.34aa5a23.css.map": "./static/css/main.34aa5a23.css.map",
-    "main.3833b61d.js.map": "./static/js/main.3833b61d.js.map"
+    "main.43099039.css.map": "./static/css/main.43099039.css.map",
+    "main.65f6384b.js.map": "./static/js/main.65f6384b.js.map"
   },
   "entrypoints": [
-    "static/css/main.34aa5a23.css",
-    "static/js/main.3833b61d.js"
+    "static/css/main.43099039.css",
+    "static/js/main.65f6384b.js"
   ]
 }
