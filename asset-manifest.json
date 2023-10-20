@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "./static/css/main.43099039.css",
-    "main.js": "./static/js/main.65f6384b.js",
-    "static/media/PEACH.png": "./static/media/PEACH.d154222ee538ddbed32a.png",
-    "static/media/AVOCADO.png": "./static/media/AVOCADO.91e2d4f4f0cb9d93fa61.png",
-    "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.9210427ba545e72b9eef.png",
-    "static/media/WATERMELON.png": "./static/media/WATERMELON.e53e92731f42eea92fd1.png",
-    "static/media/STRAWBERRY.png": "./static/media/STRAWBERRY.0c521bf90bbcf93ff969.png",
-    "static/media/TOMATO.png": "./static/media/TOMATO.13d2c2040330fbe88067.png",
-    "static/media/COCONUT.png": "./static/media/COCONUT.fab71ff41e158dac1644.png",
-    "static/media/MELON.png": "./static/media/MELON.9bf6866f50199da53419.png",
-    "static/media/BLUEBERRY.png": "./static/media/BLUEBERRY.993f784336c5f9b8bcca.png",
-    "static/media/APPLE.png": "./static/media/APPLE.7a3652f8d6736bbcabed.png",
-    "static/media/TANGERINE.png": "./static/media/TANGERINE.f6812d91ec907c5671f9.png",
-    "static/media/KOREANMELON.png": "./static/media/KOREANMELON.0c06331848499fe77118.png",
+    "main.js": "./static/js/main.e5a6986f.js",
+    "static/media/MELON.png": "./static/media/MELON.f085a58b3d578859cb8a.png",
+    "static/media/KakaoTalk_20231020_201146219_01.png": "./static/media/KakaoTalk_20231020_201146219_01.4b5424f9b7ce1544dda8.png",
+    "static/media/PEACH.png": "./static/media/PEACH.b011e13f3735d0a85ba2.png",
+    "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.f4b8b11c6b3ef6e22dda.png",
+    "static/media/AVOCADO.png": "./static/media/AVOCADO.e64f23d180e5a6eb336a.png",
+    "static/media/COCONUT.png": "./static/media/COCONUT.c6a79b1abb76c7598ce8.png",
+    "static/media/KOREANMELON.png": "./static/media/KOREANMELON.516a4eb5428f7650b4f1.png",
+    "static/media/WATERMELON.png": "./static/media/WATERMELON.2ba7f34b027d9bbb1ef5.png",
+    "static/media/STRAWBERRY.png": "./static/media/STRAWBERRY.a93b9c64705cc2a48276.png",
+    "static/media/TANGERINE.png": "./static/media/TANGERINE.88c3b81d0290a575b1ec.png",
+    "static/media/APPLE.png": "./static/media/APPLE.9b343d81952af7e55f66.png",
+    "static/media/BLUEBERRY.png": "./static/media/BLUEBERRY.86168ead3ac30ec918a5.png",
+    "static/media/TOMATO.png": "./static/media/TOMATO.dc6ce2c6301cf44c617c.png",
     "static/media/pop.mp3": "./static/media/pop.aad1876107786cd34875.mp3",
     "static/media/pop2.mp3": "./static/media/pop2.be611a1bcb32ab485a96.mp3",
     "index.html": "./index.html",
     "main.43099039.css.map": "./static/css/main.43099039.css.map",
-    "main.65f6384b.js.map": "./static/js/main.65f6384b.js.map"
+    "main.e5a6986f.js.map": "./static/js/main.e5a6986f.js.map"
   },
   "entrypoints": [
     "static/css/main.43099039.css",
-    "static/js/main.65f6384b.js"
+    "static/js/main.e5a6986f.js"
   ]
 }
