@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.43099039.css",
-    "main.js": "./static/js/main.e5a6986f.js",
+    "main.js": "./static/js/main.08d73cc7.js",
     "static/media/MELON.png": "./static/media/MELON.f085a58b3d578859cb8a.png",
-    "static/media/KakaoTalk_20231020_201146219_01.png": "./static/media/KakaoTalk_20231020_201146219_01.4b5424f9b7ce1544dda8.png",
     "static/media/PEACH.png": "./static/media/PEACH.b011e13f3735d0a85ba2.png",
     "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.f4b8b11c6b3ef6e22dda.png",
     "static/media/AVOCADO.png": "./static/media/AVOCADO.e64f23d180e5a6eb336a.png",
@@ -19,10 +18,10 @@
     "static/media/pop2.mp3": "./static/media/pop2.be611a1bcb32ab485a96.mp3",
     "index.html": "./index.html",
     "main.43099039.css.map": "./static/css/main.43099039.css.map",
-    "main.e5a6986f.js.map": "./static/js/main.e5a6986f.js.map"
+    "main.08d73cc7.js.map": "./static/js/main.08d73cc7.js.map"
   },
   "entrypoints": [
     "static/css/main.43099039.css",
-    "static/js/main.e5a6986f.js"
+    "static/js/main.08d73cc7.js"
   ]
 }
