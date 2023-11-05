@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.43099039.css",
+    "main.js": "./static/js/main.2712dc4b.js",
+    "static/media/MELON.png": "./static/media/MELON.23703ff934da8bb7e497.png",
+    "static/media/GOLDWATERMELON.png": "./static/media/GOLDWATERMELON.4422034cb0a5b2d33e44.png",
+    "static/media/KOREANMELON.png": "./static/media/KOREANMELON.eb3b33505e1f1cabbd36.png",
+    "static/media/COCONUT.png": "./static/media/COCONUT.9b3388f4ea80e4ffc427.png",
+    "static/media/AVOCADO.png": "./static/media/AVOCADO.db2fe30aeb2cf3b069e0.png",
+    "static/media/WATERMELON.png": "./static/media/WATERMELON.56a8f5a341caf6657bff.png",
+    "static/media/PEACH.png": "./static/media/PEACH.b22d97286585e519ec8e.png",
+    "static/media/STRAWBERRY.png": "./static/media/STRAWBERRY.f0172fe13b8575e347f3.png",
+    "static/media/TANGERINE.png": "./static/media/TANGERINE.18213e6085575d5d3b56.png",
+    "static/media/BLUEBERRY.png": "./static/media/BLUEBERRY.394c7aef22125e9863ec.png",
+    "static/media/TOMATO.png": "./static/media/TOMATO.00ec33a97e62890f76f0.png",
+    "static/media/APPLE.png": "./static/media/APPLE.fc410584f9a99f3ec73d.png",
+    "static/media/pop.mp3": "./static/media/pop.aad1876107786cd34875.mp3",
+    "static/media/pop2.mp3": "./static/media/pop2.be611a1bcb32ab485a96.mp3",
+    "index.html": "./index.html",
+    "main.43099039.css.map": "./static/css/main.43099039.css.map",
+    "main.2712dc4b.js.map": "./static/js/main.2712dc4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43099039.css",
+    "static/js/main.2712dc4b.js"
+  ]
+}
